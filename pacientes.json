@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "1",
+    "nombre": "Abel Guzmán",
+    "edad": null,
+    "centroMedico": "Clínica Abreu",
+    "observaciones": null
+  },
+  {
+    "id": "2",
+    "nombre": "Adriana De Gil",
+    "edad": null,
+    "centroMedico": "Clínica Abreu",
+    "observaciones": null
+  },
+  {
+    "id": "3",
+    "nombre": "Alex Augusto Martínez García",
+    "edad": 36,
+    "centroMedico": "Hospiten Santo Domingo",
+    "observaciones": null
+  },
+  {
+    "id": "4",
+    "nombre": "Amanda Murray",
+    "edad": 42,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "5",
+    "nombre": "Ambar Montero",
+    "edad": 33,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "6",
+    "nombre": "Ámbar Montero",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "7",
+    "nombre": "Ana María Fernández",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "8",
+    "nombre": "Ana Montero",
+    "edad": 32,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "9",
+    "nombre": "Ana Ramirez",
+    "edad": 39,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "UCI Polivalente"
+  },
+  {
+    "id": "10",
+    "nombre": "Anastasio Peguero Concepcion",
+    "edad": 56,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "11",
+    "nombre": "Anny Marisol Aybar",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana, Hospital Central de las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "12",
+    "nombre": "Anny Montero",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "13",
+    "nombre": "Aracelis Altagracia Santana",
+    "edad": null,
+    "centroMedico": "Centro Médico UCE",
+    "observaciones": null
+  },
+  {
+    "id": "14",
+    "nombre": "Berenice Enrique Baez",
+    "edad": 35,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": "Referido a otro Centro"
+  },
+  {
+    "id": "15",
+    "nombre": "Brenda Geraldine Ortega",
+    "edad": 34,
+    "centroMedico": "Hospiten Santo Domingo",
+    "observaciones": null
+  },
+  {
+    "id": "16",
+    "nombre": "Brenda Ortega",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": "De alta a peticion"
+  },
+  {
+    "id": "17",
+    "nombre": "Camilo Peña",
+    "edad": null,
+    "centroMedico": "Clínica Abreu",
+    "observaciones": null
+  },
+  {
+    "id": "18",
+    "nombre": "Carlos Canela",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "19",
+    "nombre": "Carlos Gil",
+    "edad": null,
+    "centroMedico": "Clínica Abreu",
+    "observaciones": null
+  },
+  {
+    "id": "20",
+    "nombre": "Carlos Julio Peña",
+    "edad": null,
+    "centroMedico": "Clínica Independencia Sur",
+    "observaciones": null
+  },
+  {
+    "id": "21",
+    "nombre": "Carlos Manuel Martinez",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana, Hospital Central de las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "22",
+    "nombre": "Carlos Manuel Martínez",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "23",
+    "nombre": "Carlos Martínez",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "24",
+    "nombre": "Carlos Sanchez",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "25",
+    "nombre": "Carolina Rodríguez",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "26",
+    "nombre": "Cintia Deivis",
+    "edad": null,
+    "centroMedico": "Centro Médico UCE",
+    "observaciones": null
+  },
+  {
+    "id": "27",
+    "nombre": "Claribel Castro",
+    "edad": null,
+    "centroMedico": "Hospital General Docente De La Policia Nacional",
+    "observaciones": null
+  },
+  {
+    "id": "28",
+    "nombre": "Cristal Montilla",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "29",
+    "nombre": "Cristian Márquez",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "30",
+    "nombre": "Cristian Marquez",
+    "edad": 40,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": "INGRESO"
+  },
+  {
+    "id": "31",
+    "nombre": "Cristóbal Moya",
+    "edad": null,
+    "centroMedico": "Centro Médico Dominico Cubano",
+    "observaciones": null
+  },
+  {
+    "id": "32",
+    "nombre": "Damiel Veras",
+    "edad": null,
+    "centroMedico": "Centro De Medicina Avanzada Dr. Abel Gonzalez",
+    "observaciones": null
+  },
+  {
+    "id": "33",
+    "nombre": "Daniel Elías Laureano",
+    "edad": null,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "34",
+    "nombre": "Daniel Elias Laureano Canario",
+    "edad": 23,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "35",
+    "nombre": "Daniel Veras",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "36",
+    "nombre": "Danilda Amado Figueroa",
+    "edad": 31,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "37",
+    "nombre": "Daris Lebron",
+    "edad": 26,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "38",
+    "nombre": "Darisleidy Lebrón",
+    "edad": null,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "39",
+    "nombre": "DATOS DESCONOCIDOS",
+    "edad": null,
+    "centroMedico": "Clinica Independencia Sur",
+    "observaciones": null
+  },
+  {
+    "id": "40",
+    "nombre": "DATOS DESCONOCIDOS",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "41",
+    "nombre": "DATOS DESCONOCIDOS",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "42",
+    "nombre": "DATOS DESCONOCIDOS",
+    "edad": null,
+    "centroMedico": "Clinica Independencia Sur",
+    "observaciones": null
+  },
+  {
+    "id": "43",
+    "nombre": "Deivi Alberto Antigua",
+    "edad": null,
+    "centroMedico": null,
+    "observaciones": "Firmó Hoja De Descargo Legal"
+  },
+  {
+    "id": "44",
+    "nombre": "Dominicana Soribel Acosta",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "45",
+    "nombre": "Dr. Julino Cesar Castillo",
+    "edad": 63,
+    "centroMedico": null,
+    "observaciones": "De alta"
+  },
+  {
+    "id": "46",
+    "nombre": "Dra. Jacqueline Delemont",
+    "edad": 59,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "Quirofano"
+  },
+  {
+    "id": "47",
+    "nombre": "Dra. Yadira Cueto",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "48",
+    "nombre": "Duglas García",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "49",
+    "nombre": "Elena Almánzar",
+    "edad": 49,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "50",
+    "nombre": "Elianta Guillermina Quintana",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "51",
+    "nombre": "Elisa Murray",
+    "edad": 42,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "52",
+    "nombre": "Elizabeth Sanchez",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "53",
+    "nombre": "Elsa Espinal",
+    "edad": null,
+    "centroMedico": "Clínica Independencia, Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "54",
+    "nombre": "Elsa Espinal Arias",
+    "edad": 31,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "55",
+    "nombre": "Feber Berenice Henríquez",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "56",
+    "nombre": "Feliz Manuel Soto",
+    "edad": 53,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "57",
+    "nombre": "Fidel González",
+    "edad": null,
+    "centroMedico": "Clínica Abreu",
+    "observaciones": null
+  },
+  {
+    "id": "58",
+    "nombre": "Francelis Vargas",
+    "edad": 26,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "UCI Polivalente"
+  },
+  {
+    "id": "59",
+    "nombre": "Franchezca Frías",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "60",
+    "nombre": "Franklin Alberto Rodríguez Garabito",
+    "edad": null,
+    "centroMedico": "Hospiten Santo Domingo",
+    "observaciones": null
+  },
+  {
+    "id": "61",
+    "nombre": "Freddy Jose Ulloa",
+    "edad": 24,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "62",
+    "nombre": "Freddy Ulloa",
+    "edad": null,
+    "centroMedico": "Centro Médico Real",
+    "observaciones": null
+  },
+  {
+    "id": "63",
+    "nombre": "Gabriela Pucho",
+    "edad": null,
+    "centroMedico": "Centro De Medicina Avanzada Dr. Abel Gonzalez",
+    "observaciones": null
+  },
+  {
+    "id": "64",
+    "nombre": "Geraldin Bastardo",
+    "edad": 37,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "65",
+    "nombre": "Geraldine Bastardo",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "66",
+    "nombre": "German Jorge",
+    "edad": 38,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "67",
+    "nombre": "German Peña o Perez",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "68",
+    "nombre": "Gilbert Julián Ricardo",
+    "edad": null,
+    "centroMedico": "Hospital Salvador Bienvenido Gautier",
+    "observaciones": null
+  },
+  {
+    "id": "69",
+    "nombre": "Gilberto Encarnación",
+    "edad": 37,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "70",
+    "nombre": "Gilibert Julian",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "71",
+    "nombre": "Giselle Guerrero",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "72",
+    "nombre": "Giselle Ogando",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "73",
+    "nombre": "Gissel Ogando",
+    "edad": 39,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "74",
+    "nombre": "Gladys Acosta",
+    "edad": null,
+    "centroMedico": "Centro Médico Dominico Cubano",
+    "observaciones": null
+  },
+  {
+    "id": "75",
+    "nombre": "Gregorico Adames",
+    "edad": null,
+    "centroMedico": "Clínica Abreu",
+    "observaciones": null
+  },
+  {
+    "id": "76",
+    "nombre": "Hairo Deivis",
+    "edad": null,
+    "centroMedico": "Centro Médico UCE",
+    "observaciones": null
+  },
+  {
+    "id": "77",
+    "nombre": "Hancel Marte",
+    "edad": 33,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "De alta"
+  },
+  {
+    "id": "78",
+    "nombre": "Hansel Marte",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "79",
+    "nombre": "Hansel Martes",
+    "edad": null,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": null
+  },
+  {
+    "id": "80",
+    "nombre": "Hector Brito",
+    "edad": 34,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "81",
+    "nombre": "Héctor Brito",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "82",
+    "nombre": "Hellen Montero",
+    "edad": null,
+    "centroMedico": "Centro Médico UCE",
+    "observaciones": null
+  },
+  {
+    "id": "83",
+    "nombre": "Humberto Guerrero",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "84",
+    "nombre": "Ingrid Reyes",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "85",
+    "nombre": "Ismael Antonio Diaz",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "86",
+    "nombre": "Ismael de Jesús",
+    "edad": null,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": null
+  },
+  {
+    "id": "87",
+    "nombre": "Ismael Tavarez",
+    "edad": 32,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "Ingreso 219A"
+  },
+  {
+    "id": "88",
+    "nombre": "Ivelisse Reinoso",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "89",
+    "nombre": "Ivelisse Reinoso Then",
+    "edad": 53,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": "De alta"
+  },
+  {
+    "id": "90",
+    "nombre": "Jaqueline Delmot",
+    "edad": null,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": null
+  },
+  {
+    "id": "91",
+    "nombre": "Jenifer Taveras",
+    "edad": 24,
+    "centroMedico": "Hospital Salvador Bienvenido Gautier",
+    "observaciones": null
+  },
+  {
+    "id": "92",
+    "nombre": "Jennifer Sosa",
+    "edad": 43,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "De alta"
+  },
+  {
+    "id": "93",
+    "nombre": "Jesus Ramirez",
+    "edad": 35,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "94",
+    "nombre": "Jesús Ramirez",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "95",
+    "nombre": "Joel Montero",
+    "edad": null,
+    "centroMedico": "Centro Médico UCE",
+    "observaciones": null
+  },
+  {
+    "id": "96",
+    "nombre": "Johan Quezada",
+    "edad": null,
+    "centroMedico": "Centro Médico Dominico Cubano",
+    "observaciones": null
+  },
+  {
+    "id": "97",
+    "nombre": "Jonathan Natera",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "98",
+    "nombre": "Jordy Ramirez Matos",
+    "edad": 20,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "99",
+    "nombre": "Jorge Antonio Peña Hernández",
+    "edad": 40,
+    "centroMedico": "Hospiten Santo Domingo",
+    "observaciones": null
+  },
+  {
+    "id": "100",
+    "nombre": "Jorge Prenda",
+    "edad": null,
+    "centroMedico": "Centro Médico Moderno",
+    "observaciones": null
+  },
+  {
+    "id": "101",
+    "nombre": "Jorge Santana",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": "De alta a petición, familiares se lo llevan a un centro privado."
+  },
+  {
+    "id": "102",
+    "nombre": "Jose Abreu Santana",
+    "edad": 26,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "103",
+    "nombre": "José Abreu Santana",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "104",
+    "nombre": "José Antonio Contreras",
+    "edad": null,
+    "centroMedico": "Clinica Independencia Sur",
+    "observaciones": null
+  },
+  {
+    "id": "105",
+    "nombre": "José Antonio Contreras Pérez",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "106",
+    "nombre": "José Candelario",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "107",
+    "nombre": "Jose Contreras Perez",
+    "edad": null,
+    "centroMedico": "Centro Médico Moderno",
+    "observaciones": null
+  },
+  {
+    "id": "108",
+    "nombre": "Jose Luis Salvi Segura",
+    "edad": 42,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "109",
+    "nombre": "Jose Mateo Reyes",
+    "edad": null,
+    "centroMedico": "Hospital General Docente De La Policia Nacional",
+    "observaciones": null
+  },
+  {
+    "id": "110",
+    "nombre": "Jose Mateo Reyes",
+    "edad": null,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": null
+  },
+  {
+    "id": "111",
+    "nombre": "Jose Miguel de los Santos",
+    "edad": 32,
+    "centroMedico": null,
+    "observaciones": "De alta"
+  },
+  {
+    "id": "112",
+    "nombre": "José Miguel De Los Santos",
+    "edad": null,
+    "centroMedico": "Centro Médico Moderno",
+    "observaciones": null
+  },
+  {
+    "id": "113",
+    "nombre": "Jose Torrente",
+    "edad": null,
+    "centroMedico": "Centro Médico Moderno",
+    "observaciones": null
+  },
+  {
+    "id": "114",
+    "nombre": "Josué Abreu",
+    "edad": null,
+    "centroMedico": "Hospital Docente Dr. Francisco E. Moscoso Puello",
+    "observaciones": null
+  },
+  {
+    "id": "115",
+    "nombre": "Juan Arturo Soto",
+    "edad": 34,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "116",
+    "nombre": "Juan Luis Gómez",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "117",
+    "nombre": "Juan Peralta",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "118",
+    "nombre": "Juliana V. Castillo Vargas",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": "De alta a peticion"
+  },
+  {
+    "id": "119",
+    "nombre": "Juliana Castillo Vargas",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "120",
+    "nombre": "Julie Cesarina Charlez",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "121",
+    "nombre": "Julio Montilla",
+    "edad": 24,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "UCI Polivalente"
+  },
+  {
+    "id": "122",
+    "nombre": "Julissa Noboa",
+    "edad": null,
+    "centroMedico": "Centro Médico Moderno",
+    "observaciones": null
+  },
+  {
+    "id": "123",
+    "nombre": "Junior Sanchez Peña",
+    "edad": 55,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "124",
+    "nombre": "Karina M. Lancer",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "125",
+    "nombre": "Karla Sanchez",
+    "edad": 41,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": "INGRESO"
+  },
+  {
+    "id": "126",
+    "nombre": "Karla Sánchez",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "127",
+    "nombre": "Katherine Coronado",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "128",
+    "nombre": "Katherine Glass",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "129",
+    "nombre": "Kenny Rodríguez",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "130",
+    "nombre": "Kevin Gabriel Silva Santana",
+    "edad": 31,
+    "centroMedico": "Hospiten Santo Domingo",
+    "observaciones": null
+  },
+  {
+    "id": "131",
+    "nombre": "Kevin Patricio",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "132",
+    "nombre": "Laura Cadena",
+    "edad": null,
+    "centroMedico": "Centro Médico Moderno",
+    "observaciones": null
+  },
+  {
+    "id": "133",
+    "nombre": "Laura Cadena Gutierez",
+    "edad": 29,
+    "centroMedico": null,
+    "observaciones": "Referida a G O"
+  },
+  {
+    "id": "134",
+    "nombre": "Laura Cardenas",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "135",
+    "nombre": "Lenis Diaz Patricio",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "136",
+    "nombre": "Linda Karina Dajer",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "137",
+    "nombre": "Lucia Castilla",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Dario Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "138",
+    "nombre": "Luis Alberto Sabreda",
+    "edad": 56,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "139",
+    "nombre": "Luis Thomas Gravely Hernández",
+    "edad": 31,
+    "centroMedico": "Hospiten Santo Domingo",
+    "observaciones": null
+  },
+  {
+    "id": "140",
+    "nombre": "Manny Diaz",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "141",
+    "nombre": "Maribel Espaillat",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "142",
+    "nombre": "Mariel Espaillat",
+    "edad": null,
+    "centroMedico": "Centro De Medicina Avanzada Dr. Abel Gonzalez",
+    "observaciones": null
+  },
+  {
+    "id": "143",
+    "nombre": "Marisol Chalas",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Dario Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "144",
+    "nombre": "Marla Urbaez",
+    "edad": 21,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "145",
+    "nombre": "Marla Urbáez",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "146",
+    "nombre": "Martin Batista",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "147",
+    "nombre": "Martín Encarnación",
+    "edad": null,
+    "centroMedico": "Clínica Abreu",
+    "observaciones": null
+  },
+  {
+    "id": "148",
+    "nombre": "Melisi Frías",
+    "edad": null,
+    "centroMedico": "Clinica Independencia Sur",
+    "observaciones": null
+  },
+  {
+    "id": "149",
+    "nombre": "Melisi Frías",
+    "edad": null,
+    "centroMedico": "Hospital Salvador Bienvenido Gautier",
+    "observaciones": null
+  },
+  {
+    "id": "150",
+    "nombre": "Merquiades Montero Montero",
+    "edad": 68,
+    "centroMedico": "Hospiten Santo Domingo",
+    "observaciones": null
+  },
+  {
+    "id": "151",
+    "nombre": "Miguel Antonio Brito Valentín",
+    "edad": 40,
+    "centroMedico": "Hospiten Santo Domingo",
+    "observaciones": null
+  },
+  {
+    "id": "152",
+    "nombre": "Miguel Perez",
+    "edad": 40,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "153",
+    "nombre": "Miguelina Gilberto Encarnacion",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "154",
+    "nombre": "Miguelo Urbaez",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "155",
+    "nombre": "Milagro Acosta",
+    "edad": 27,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "156",
+    "nombre": "Milagros Acosta",
+    "edad": 27,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": "De alta"
+  },
+  {
+    "id": "157",
+    "nombre": "Milagros Celeste",
+    "edad": null,
+    "centroMedico": "Centro Médico Moderno",
+    "observaciones": null
+  },
+  {
+    "id": "158",
+    "nombre": "Milkys Frias",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "159",
+    "nombre": "Mirela Urbaez",
+    "edad": 21,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": "De alta"
+  },
+  {
+    "id": "160",
+    "nombre": "Moisés Torres",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "161",
+    "nombre": "Moises Torres Higuey",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "162",
+    "nombre": "Nelson Encarnación",
+    "edad": null,
+    "centroMedico": "Hospital General Docente De La Policia Nacional",
+    "observaciones": null
+  },
+  {
+    "id": "163",
+    "nombre": "Nelsy Cruz",
+    "edad": 42,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "Quirofano/Fallecida"
+  },
+  {
+    "id": "164",
+    "nombre": "Nerci Milagros Cruz Martinez",
+    "edad": null,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": null
+  },
+  {
+    "id": "165",
+    "nombre": "Nicaury Bela",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "166",
+    "nombre": "Noely Peralta",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "167",
+    "nombre": "Pamela Montolla",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "168",
+    "nombre": "Pamela Montoya",
+    "edad": 33,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "169",
+    "nombre": "Paula Benitez",
+    "edad": 66,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "Ingreso 221b"
+  },
+  {
+    "id": "170",
+    "nombre": "Paulina Benítez",
+    "edad": null,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": null
+  },
+  {
+    "id": "171",
+    "nombre": "Pedro Espinal Alta",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": "De alta a peticion"
+  },
+  {
+    "id": "172",
+    "nombre": "Perla Espinal",
+    "edad": 32,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "De alta"
+  },
+  {
+    "id": "173",
+    "nombre": "Perla Leticia Espina",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "174",
+    "nombre": "Rafael Jose María Llorente Mariñez",
+    "edad": 57,
+    "centroMedico": null,
+    "observaciones": "De alta"
+  },
+  {
+    "id": "175",
+    "nombre": "Rafael Medrano 6",
+    "edad": 68,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "176",
+    "nombre": "Ramon Alberto Sanchez",
+    "edad": 42,
+    "centroMedico": null,
+    "observaciones": "De alta"
+  },
+  {
+    "id": "177",
+    "nombre": "Randy Alexander Rodriguez",
+    "edad": 33,
+    "centroMedico": "Centro Médico Moderno",
+    "observaciones": "Fallecido"
+  },
+  {
+    "id": "178",
+    "nombre": "Raul Castro",
+    "edad": 51,
+    "centroMedico": "Hospital Central De las Fuerzas Armadas",
+    "observaciones": null
+  },
+  {
+    "id": "179",
+    "nombre": "Rauny Cedano Higuey",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "180",
+    "nombre": "Remberto Jose Duran, Cabrera",
+    "edad": null,
+    "centroMedico": "Clínica Cruz Jiminian",
+    "observaciones": null
+  },
+  {
+    "id": "181",
+    "nombre": "Ricardo Archstore",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "182",
+    "nombre": "Ricardo Gilbert Julian",
+    "edad": 59,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": "En observacion"
+  },
+  {
+    "id": "183",
+    "nombre": "Ricardo Gilbert Julián",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "184",
+    "nombre": "Ricardo Jose Achstoneciz",
+    "edad": 35,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": "INGRESO"
+  },
+  {
+    "id": "185",
+    "nombre": "Ricardo José Architones",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "186",
+    "nombre": "Rodelsy Perez",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "187",
+    "nombre": "Rosa Morillo",
+    "edad": null,
+    "centroMedico": "Centro Médico UCE",
+    "observaciones": null
+  },
+  {
+    "id": "188",
+    "nombre": "Rosa Peña",
+    "edad": null,
+    "centroMedico": "Hospiten Santo Domingo",
+    "observaciones": null
+  },
+  {
+    "id": "189",
+    "nombre": "Rosbel Pérez",
+    "edad": 45,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "190",
+    "nombre": "Rosbel Pérez",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "191",
+    "nombre": "Ruddy Alonzo",
+    "edad": 44,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "192",
+    "nombre": "Rudy Alonzo",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "193",
+    "nombre": "Ruth Elisa Jerez",
+    "edad": null,
+    "centroMedico": "Hospital Salvador Bienvenido Gautier",
+    "observaciones": null
+  },
+  {
+    "id": "194",
+    "nombre": "Ruth Elisa Sella Perez",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "195",
+    "nombre": "Sergio Bonilla",
+    "edad": null,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": null
+  },
+  {
+    "id": "196",
+    "nombre": "Sergio Bonilla",
+    "edad": 24,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "De alta"
+  },
+  {
+    "id": "197",
+    "nombre": "Simeon Mieses",
+    "edad": null,
+    "centroMedico": "Centro De Medicina Avanzada Dr. Abel Gonzalez",
+    "observaciones": null
+  },
+  {
+    "id": "198",
+    "nombre": "Simeón Mueses",
+    "edad": null,
+    "centroMedico": "Clínica Abreu",
+    "observaciones": null
+  },
+  {
+    "id": "199",
+    "nombre": "Tania Tavares",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "200",
+    "nombre": "Tania Taveras",
+    "edad": null,
+    "centroMedico": "Clinica Independencia Sur",
+    "observaciones": null
+  },
+  {
+    "id": "201",
+    "nombre": "Terrero Urbaez",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "202",
+    "nombre": "Víctor de la Cruz",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "203",
+    "nombre": "Víctor Manuel De La Cruz",
+    "edad": null,
+    "centroMedico": "Hospital Vinicio Calventi",
+    "observaciones": null
+  },
+  {
+    "id": "204",
+    "nombre": "Víctor Manuel Ovalles",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "205",
+    "nombre": "Victor Manuel Rodriguez Ovalles",
+    "edad": 31,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "206",
+    "nombre": "Víctor Manuel Rodriguez Ovalles",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "207",
+    "nombre": "Victoria Rosario",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "208",
+    "nombre": "Victoria Rosario",
+    "edad": null,
+    "centroMedico": "Centro Médico UCE",
+    "observaciones": null
+  },
+  {
+    "id": "209",
+    "nombre": "Virgilio Cruz",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "210",
+    "nombre": "Vismar Peña",
+    "edad": 28,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "De alta"
+  },
+  {
+    "id": "211",
+    "nombre": "Vivian Díaz",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "212",
+    "nombre": "Vivian Díaz",
+    "edad": null,
+    "centroMedico": "Clínica Abreu",
+    "observaciones": null
+  },
+  {
+    "id": "213",
+    "nombre": "Viviana Díaz",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Darío Contreras",
+    "observaciones": null
+  },
+  {
+    "id": "214",
+    "nombre": "Wendolyn Medina",
+    "edad": 33,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "215",
+    "nombre": "Wilfrere",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "216",
+    "nombre": "Willian Sanchez",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "217",
+    "nombre": "Wilneli Medina",
+    "edad": null,
+    "centroMedico": "Clinica Independencia Sur",
+    "observaciones": null
+  },
+  {
+    "id": "218",
+    "nombre": "Wilnelis Medina",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "219",
+    "nombre": "Yanilsa Meran",
+    "edad": null,
+    "centroMedico": "Hospital Regional Doctor Marcelino Vélez Santana",
+    "observaciones": null
+  },
+  {
+    "id": "220",
+    "nombre": "Yanitza Marien",
+    "edad": null,
+    "centroMedico": "Hospital Dr. Francisco Moscoso Puello",
+    "observaciones": null
+  },
+  {
+    "id": "221",
+    "nombre": "Yaritza Maria",
+    "edad": null,
+    "centroMedico": "Hospital Francisco Moscoso Puello",
+    "observaciones": null
+  },
+  {
+    "id": "222",
+    "nombre": "Yaritza Mariñe",
+    "edad": null,
+    "centroMedico": "Hospital Docente Dr. Francisco E. Moscoso Puello",
+    "observaciones": null
+  },
+  {
+    "id": "223",
+    "nombre": "Yeraldin Bastardo",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "224",
+    "nombre": "Yerine Mena",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "225",
+    "nombre": "Yimal Bella",
+    "edad": null,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": null
+  },
+  {
+    "id": "226",
+    "nombre": "Yoselyn",
+    "edad": null,
+    "centroMedico": "Hospital Traumatológico Dr. Ney Arias Lora",
+    "observaciones": null
+  },
+  {
+    "id": "227",
+    "nombre": "Yudelka Hauly",
+    "edad": null,
+    "centroMedico": "Clínica Independencia",
+    "observaciones": null
+  },
+  {
+    "id": "228",
+    "nombre": "Yudi Del Carmen Gómez",
+    "edad": null,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": null
+  },
+  {
+    "id": "229",
+    "nombre": "Yudith Gomez",
+    "edad": 48,
+    "centroMedico": "Hospital General de la Plaza de la Salud",
+    "observaciones": "Ingreso 221A"
+  },
+  {
+    "id": "230",
+    "nombre": "Yulissa Novoa",
+    "edad": 40,
+    "centroMedico": null,
+    "observaciones": "De alta"
+  }
+]
